@@ -1,0 +1,3 @@
+https://analytics.dev.azure.com/ValmirMeneses/PartsUnlimited/_odata/V4.0-preview
+PAT: cucmfx2m3azramotletjbfura72rlgha52ifke2rqorvumjo46ka
+
